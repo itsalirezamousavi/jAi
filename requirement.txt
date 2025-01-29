@@ -1,0 +1,7 @@
+lxml
+install beautifulsoup4
+openai
+json
+requests
+flask
+flask_restful
